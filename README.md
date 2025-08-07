@@ -1,4 +1,3 @@
----
 
 ## Idempotent Cache
 
