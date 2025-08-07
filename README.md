@@ -1,6 +1,8 @@
 
 ## Idempotent Cache
 
+[![Release](https://img.shields.io/github/v/release/rutu-y-patel/idempotent-cache?style=flat)](https://github.com/rutu-y-patel/idempotent-cache/releases)
+
 **A plug-and-play Java/Spring Boot library for idempotent processing using Redis.**  
 Designed to make your batch jobs, APIs, and event-driven systems safe, observable, and efficient with built-in deduplication, TTL, logging, and Prometheus/Micrometer metrics.
 
