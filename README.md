@@ -174,27 +174,19 @@ Feel free to fork, star, open issues, or submit PRs.
 
 ## License
 
-Licensed under MIT (or your preferred license).
+Licensed under the [MIT License](https://github.com/rutu-y-patel/idempotent-cache/blob/main/LICENSE).
 
 ---
 
 ## Maintainer
 
-rutu-y-patel
-
----
-
-## Useful Resources
-
-- Spring Boot Documentation
-- Micrometer
-- Prometheus
-- Redis
+[rutu-y-patel](https://github.com/rutu-y-patel)
 
 ---
 
 ## Related Search Terms (SEO)
-- This library is useful if you’re looking for:
+
+This library is useful if you’re looking for:
 - Spring Boot idempotency
 - Java idempotent processing
 - Deduplication with Redis in Spring
